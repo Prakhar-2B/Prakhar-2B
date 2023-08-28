@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prakhar-2B
 - 👀 I’m interested in dsa, small developement projects
-- 🌱 I’m currently learning dsa with c++ and python for some projects
+- 🌱 I’m currently learning dsa with java and python for some projects
 - 💞️ I’m looking to collaborate on beginner open source projects
 - 📫 How to reach me ping me on therecore24@gmail.com
 
